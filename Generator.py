@@ -5,7 +5,7 @@ import random
 import time
 
 # Discord webhook URL
-DISCORD_WEBHOOK_URL = "YOUR_WEBHOOK_URL"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1530927391117938710/h3j7uhidpxm5TOWar71im6Jr7PxJqLCzG1l_AY2zFbWsL9kqJSo4RviENKZiBlMzGQ_o"
 
 def generate_random_string(length):
     """Generate a random alphanumeric string of given length."""
